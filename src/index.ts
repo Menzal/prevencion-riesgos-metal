@@ -3,6 +3,7 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 
 import riesgosRoutes from './routes/riesgosRoutes';
+import informesRoutes from './routes/informesRoutes';
 import cursosRoutes from './routes/cursosRoutes';
 import usuariosRoutes from './routes/usuariosRoutes';
 
@@ -25,6 +26,7 @@ app.get('/health', (req, res) => {
 app.use('/api/riesgos', riesgosRoutes);
 app.use('/api/cursos', cursosRoutes);
 app.use('/api/usuarios', usuariosRoutes);
+app.use('/api/informes', informesRoutes);
 
 // Root endpoint
 app.get('/', (req, res) => {
@@ -35,7 +37,9 @@ app.get('/', (req, res) => {
             riesgos: '/api/riesgos',
             cursos: '/api/cursos',
             usuarios: '/api/usuarios',
-            health: '/health'
+            health: '/health',
+            informes: '/api/informes',
+            ultimoInforme: '/api/informes/ultimo'
         }
     });
 });
