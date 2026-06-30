@@ -15,7 +15,7 @@ La quincena está marcada por la entrada en vigor de normativas sobre estrés t�
 
 | Nivel de Urgencia | Tema / Alerta | Sector Afectado | Acción Requerida |
 | :---: | :--- | :--- | :--- |
-| **ALTA** | **Plan Estival 2026 (Inspección de Trabajo)** | Construcción, Metal, Agricultura | Adaptación inmediata de horarios y medidas preventivas ante estrés térmico por altas temperaturas [1] [2]. |
+| **ALTA** | **Plan Estival 2026 y 1ª Ola de Calor** | Construcción, Metal, Agricultura | Superados los 40ºC. ITSS advierte de responsabilidad penal. En 2025: 1,6M€ en sanciones. Adaptar horarios y compatibilizar con Ley de Movilidad Sostenible [1] [2] [18]. |
 | **ALTA** | **Bloqueo Convenio del Metal en Murcia** | Metal (Murcia) | Seguimiento de posibles huelgas y paros en julio que afectarán la producción y la seguridad en los centros de trabajo [3] [4]. |
 | **MEDIA** | **Nuevas NTP del INSST (1221, 1227 y 1228)** | Todos los sectores | Actualizar evaluaciones de exposición a radón y agentes químicos según los nuevos criterios del INSST [5] [6]. |
 | **MEDIA** | **Entrada en vigor RD 88/2026** | Electricidad | Revisar la normativa del nuevo Reglamento General de Suministro Eléctrico para instalaciones y comercializadoras [7]. |
@@ -29,9 +29,14 @@ La quincena está marcada por la entrada en vigor de normativas sobre estrés t�
 En el marco del 30º aniversario de la LPRL (1995), el Gobierno ha declarado 2026 como el "Año de la Seguridad y Salud en el Trabajo". El anteproyecto de reforma de la ley establece de forma expresa que la evaluación de riesgos deberá contemplar los factores psicosociales (estrés, carga mental, organización del trabajo) como categoría diferenciada y de cumplimiento obligatorio [8]. 
 La reforma también modifica los umbrales para constituir un Servicio de Prevención Propio (SPP), reduciendo el límite de 250 a 150 trabajadores para empresas de alto riesgo (como construcción y metal) [9]. La entrada en vigor de las obligaciones psicosociales está prevista para el 2 de enero de 2027.
 
-### Plan Estival 2026 y Estrés Térmico
-El Consejo de Ministros ha aprobado el Plan Estival 2026. La Inspección de Trabajo y Seguridad Social (ITSS) ha anunciado el envío de más de 113.000 cartas a empresas de sectores expuestos (construcción y agricultura) para recordar la obligación de proteger a los trabajadores frente al calor extremo [1] [2]. 
-Se ha publicado también un criterio técnico (INVASSAT) que establece que el riesgo es elevado a partir de los 30ºC a la sombra, exigiendo planes específicos, aclimatación progresiva (7-14 días) y la prohibición del trabajo en solitario [10].
+### Plan Estival 2026 y 1ª Ola de Calor
+España acaba de superar la primera gran ola de calor de 2026 (entre el 21 y el 25 de junio), con temperaturas que han rebasado los 40 grados [18]. Ante este escenario, el Consejo de Ministros ha aprobado el Plan Estival 2026 y la Inspección de Trabajo y Seguridad Social (ITSS) ha enviado más de 113.000 cartas a empresas de sectores expuestos para recordar la obligación de proteger a los trabajadores [1] [2]. 
+
+Según datos recientes, la tendencia regulatoria apunta a una mayor exigencia preventiva. En 2025, la ITSS llevó a cabo más de 10.700 actuaciones relacionadas con riesgos climáticos, detectando 291 infracciones e imponiendo sanciones conjuntas cercanas a los 1,6 millones de euros [18]. 
+
+Se advierte además de que el incumplimiento de las obligaciones preventivas que genere un peligro grave para la vida o la salud de los trabajadores puede derivar en responsabilidad penal. En casos de golpes de calor severos o mortales vinculados a alertas meteorológicas, los tribunales analizarán si la empresa adoptó las medidas exigibles o si permitió que la actividad continuara en condiciones de riesgo [18].
+
+Por otro lado, estas medidas preventivas (limitación de desplazamientos, flexibilización de horarios, teletrabajo) deben equilibrarse con las exigencias de la futura Ley de Movilidad Sostenible, que obligará antes de diciembre de 2026 a las empresas de más de 200 trabajadores (o 100 por turno) a contar con un plan de movilidad [18]. Finalmente, se recuerda la aplicación del permiso retribuido de cuatro días (aprobado tras la DANA) en casos de imposibilidad de acceso al centro de trabajo o continuidad de la actividad por fenómenos meteorológicos adversos [18].
 
 ### Campaña Ibérica sobre Cambio Climático
 El INSST de España y la Autoridade para as Condições do Trabalho de Portugal han lanzado una campaña conjunta (junio 2026 - junio 2027) para prevenir riesgos laborales asociados al cambio climático, como el estrés térmico, la radiación UV y fenómenos meteorológicos extremos [11].
@@ -123,3 +128,4 @@ Para las empresas de Construcción, Metal y Electricidad en la Región de Murcia
 *   [15] UGT. "Muertes por accidente laboral en España en 2026". (26 de junio de 2026).
 *   [16] La Opinión de Murcia. "La Fiscalía duplica los expedientes por accidentes laborales con lesiones en la Región de Murcia en solo un año". (23 de junio de 2026).
 *   [17] La Razón. "El preocupante aumento de los accidentes laborales en la Región: un 123% más el año pasado". (22 de junio de 2026).
+*   [18] Expansión. "El calor dispara los riesgos para las empresas". (30 de junio de 2026).
