@@ -1,22 +1,23 @@
 # Informe Quincenal de Prevención de Riesgos Laborales (PRL)
 **Sectores:** Construcción, Metal y Electricidad
 **Ámbito:** España y Región de Murcia
-**Periodo:** 13 al 28 de junio de 2026
+**Periodo:** 13 de junio al 7 de julio de 2026
 
 ---
 
 ## 1. Resumen Ejecutivo y Alertas
 
-El presente informe recoge las principales novedades normativas, estadísticas de siniestralidad y acciones preventivas para los sectores de Construcción, Metal y Electricidad, con especial atención a la Región de Murcia, durante la segunda quincena de junio de 2026. 
+El presente informe recoge las principales novedades normativas, estadísticas de siniestralidad y acciones preventivas para los sectores de Construcción, Metal y Electricidad, con especial atención a la Región de Murcia, abarcando desde mediados de junio hasta el 7 de julio de 2026. 
 
-La quincena está marcada por la entrada en vigor de normativas sobre estrés térmico y suministro eléctrico, el bloqueo del convenio del metal en Murcia y el aumento de la siniestralidad laboral, con 257 accidentes mortales en España en lo que va de año y un repunte preocupante en la Región de Murcia.
+Este periodo está marcado por la entrada en vigor de la segunda ola de calor del verano, la escalada de tensión en el convenio del metal en Murcia (con amenaza de huelga general en septiembre), y un repunte de la siniestralidad laboral severa: 264 accidentes mortales en España y una racha trágica de tres fallecidos en tres días en la zona centro.
 
-### Tabla de Alertas de la Quincena
+### Tabla de Alertas del Periodo
 
 | Nivel de Urgencia | Tema / Alerta | Sector Afectado | Acción Requerida |
 | :---: | :--- | :--- | :--- |
-| **ALTA** | **Plan Estival 2026 y 1ª Ola de Calor** | Construcción, Metal, Agricultura | Superados los 40ºC. ITSS advierte de responsabilidad penal. En 2025: 1,6M€ en sanciones. Adaptar horarios y compatibilizar con Ley de Movilidad Sostenible [1] [2] [18]. |
-| **ALTA** | **Bloqueo Convenio del Metal en Murcia** | Metal (Murcia) | Seguimiento de posibles huelgas y paros en julio que afectarán la producción y la seguridad en los centros de trabajo [3] [4]. |
+| **CRÍTICA** | **2ª Ola de Calor y Riesgo Penal** | Construcción, Metal, Agricultura | Nueva ola de calor hasta el 9 de julio. Obligación de paralizar actividad al aire libre. Los tribunales ya imputan responsabilidad penal por golpes de calor [18] [20] [21]. |
+| **ALTA** | **Ultimátum en el Convenio del Metal** | Metal (Murcia) | Mediación en OMAL. Si fracasa en julio, habrá huelga general en septiembre. Activar planes de contingencia productiva y de seguridad [22]. |
+| **ALTA** | **Repunte de Caídas en Altura** | Construcción | Tres accidentes mortales en tres días a principios de julio (incluyendo caídas y electrocución). Revisar de urgencia las protecciones colectivas (redes, andamios) [23] [24]. |
 | **MEDIA** | **Nuevas NTP del INSST (1221, 1227 y 1228)** | Todos los sectores | Actualizar evaluaciones de exposición a radón y agentes químicos según los nuevos criterios del INSST [5] [6]. |
 | **MEDIA** | **Entrada en vigor RD 88/2026** | Electricidad | Revisar la normativa del nuevo Reglamento General de Suministro Eléctrico para instalaciones y comercializadoras [7]. |
 | **MEDIA** | **Reforma de la Ley de PRL** | Todos los sectores | Preparación para las nuevas obligaciones sobre evaluación de riesgos psicosociales (vigencia prevista en enero de 2027) [8]. |
@@ -29,8 +30,8 @@ La quincena está marcada por la entrada en vigor de normativas sobre estrés t�
 En el marco del 30º aniversario de la LPRL (1995), el Gobierno ha declarado 2026 como el "Año de la Seguridad y Salud en el Trabajo". El anteproyecto de reforma de la ley establece de forma expresa que la evaluación de riesgos deberá contemplar los factores psicosociales (estrés, carga mental, organización del trabajo) como categoría diferenciada y de cumplimiento obligatorio [8]. 
 La reforma también modifica los umbrales para constituir un Servicio de Prevención Propio (SPP), reduciendo el límite de 250 a 150 trabajadores para empresas de alto riesgo (como construcción y metal) [9]. La entrada en vigor de las obligaciones psicosociales está prevista para el 2 de enero de 2027.
 
-### Plan Estival 2026 y 1ª Ola de Calor
-España acaba de superar la primera gran ola de calor de 2026 (entre el 21 y el 25 de junio), con temperaturas que han rebasado los 40 grados [18]. Ante este escenario, el Consejo de Ministros ha aprobado el Plan Estival 2026 y la Inspección de Trabajo y Seguridad Social (ITSS) ha iniciado una campaña preventiva en dos fases, enviando miles de comunicaciones (más de 11.400 solo en Cataluña, concentradas en un 60% en construcción y 40% en agricultura) para recordar la obligación de proteger a los trabajadores frente al estrés térmico [1] [2] [19]. 
+### Plan Estival 2026 y 2ª Ola de Calor
+España afronta la segunda gran ola de calor de 2026 (activa hasta el 9 de julio), tras superar los 40 grados a finales de junio [18] [21]. Ante este escenario, el Consejo de Ministros ha aprobado el Plan Estival 2026 y la Inspección de Trabajo y Seguridad Social (ITSS) ha iniciado una campaña preventiva en dos fases, enviando miles de comunicaciones (más de 11.400 solo en Cataluña, concentradas en un 60% en construcción y 40% en agricultura) para recordar la obligación de proteger a los trabajadores frente al estrés térmico [1] [2] [19]. Comunidades como la Valenciana han emitido comunicados urgentes recordando la obligación de paralizar la actividad en exteriores cuando no se pueda garantizar la seguridad [21].
 
 Según datos recientes, la tendencia regulatoria apunta a una mayor exigencia preventiva. En 2025, la ITSS llevó a cabo más de 10.700 actuaciones relacionadas con riesgos climáticos, detectando 291 infracciones e imponiendo sanciones conjuntas cercanas a los 1,6 millones de euros [18]. 
 
@@ -70,22 +71,23 @@ El INSST ha publicado nuevas Notas Técnicas de Prevención de interés para el 
 
 ## 5. Sector Metal
 
-### Conflicto y Bloqueo del Convenio en Murcia
-Las negociaciones del convenio colectivo de la industria siderometalúrgica de la Región de Murcia (caducado desde el 31 de diciembre de 2025) se encuentran bloqueadas. Tras 15 reuniones sin acuerdo económico con la FREMM (Federación Regional de Empresarios del Metal de Murcia), los sindicatos (UGT, CCOO, USO) exigen un incremento salarial del 5% anual [3].
-Como medida de presión, se convocó una concentración el 25 de junio ante la sede de la FREMM, y los sindicatos advierten de posibles huelgas y paros totales durante el mes de julio si no se producen avances [4]. Este sector emplea a unos 35.000 trabajadores en la región.
+### Ultimátum de Huelga en el Convenio de Murcia
+Las negociaciones del convenio colectivo de la industria siderometalúrgica de la Región de Murcia (caducado desde el 31 de diciembre de 2025) han entrado en una fase crítica. Tras 15 reuniones sin acuerdo con la FREMM (Federación Regional de Empresarios del Metal de Murcia), los sindicatos (UGT, CCOO, USO) han denunciado un "bloqueo total" y han solicitado la mediación de la Oficina de Mediación y Arbitraje Laboral (OMAL) [22].
+
+Los sindicatos aseguran haber rebajado su plataforma reivindicativa de 29 a 13 puntos, exigiendo mejoras en el plus de parada, subrogaciones y la eliminación de la compensación salarial. Han lanzado un ultimátum: si la mediación fracasa en julio, se convocará una **huelga general a partir de septiembre**, augurando un "otoño caliente" para los 35.000 trabajadores del sector en la región [22].
 
 ---
 
 ## 6. Siniestralidad Laboral (España y Murcia)
 
 ### Datos Nacionales (España)
-Según el contador de muertes en el trabajo de UGT, hasta finales de junio de 2026 se han registrado **257 muertes por accidente laboral** en España [15]. 
-El año 2025 cerró con 735 accidentes mortales, de los cuales 139 correspondieron a la industria y 178 a la construcción. Los sindicatos denuncian que la cifra de fallecidos es alarmante y exigen un cumplimiento riguroso de la normativa preventiva [15].
+Según el contador de muertes en el trabajo de UGT, a principios de julio de 2026 se han registrado **264 muertes por accidente laboral** en España [15]. 
+El año 2025 cerró con 735 accidentes mortales, de los cuales 139 correspondieron a la industria y 178 a la construcción. Los sindicatos denuncian que la cifra de fallecidos es alarmante y exigen un cumplimiento riguroso de la normativa preventiva [15]. A principios de julio, se ha registrado una racha trágica de tres accidentes mortales en apenas tres días en la zona centro (dos caídas en altura en Miguelturra y Toledo, y una electrocución en El Casar de Escalona), lo que ha llevado a los sindicatos a exigir medidas urgentes sobre las protecciones colectivas [23] [24].
 
 ### Situación Crítica en la Región de Murcia
-La siniestralidad laboral en Murcia presenta cifras altamente preocupantes. La Fiscalía Superior de la Región de Murcia ha informado que los expedientes judiciales por accidentes laborales con lesiones **se han incrementado un 132%** en el último año (alcanzando los 3.202 casos) [16].
+La siniestralidad laboral en Murcia presenta cifras altamente preocupantes. El absentismo laboral se situó en el 7,7% en el primer trimestre de 2026 [25], y la Fiscalía Superior ha informado que los expedientes judiciales por accidentes con lesiones **se han incrementado un 132%** en el último año [16].
 *   En 2025, fallecieron 37 personas en accidentes laborales en la Región (28 en jornada y 9 *in itinere*) [17].
-*   En lo que va de 2026, los sindicatos reportan **16 fallecidos** en sus puestos de trabajo en la Región [16].
+*   En lo que va de 2026, los sindicatos reportan más de **16 fallecidos**, sumándose a principios de julio el atropello mortal de un trabajador por una retroexcavadora en una empresa de maquinaria agrícola en Lorca [26].
 *   La Fiscalía y la Inspección de Trabajo han incrementado la persecución penal de estos accidentes. En 2025 se obtuvieron 9 sentencias condenatorias, destacando una por homicidio imprudente contra una empresa cuyo trabajador falleció por un golpe de calor al estar expuesto a 38ºC sin medidas preventivas [17].
 
 ---
@@ -131,3 +133,9 @@ Para las empresas de Construcción, Metal y Electricidad en la Región de Murcia
 *   [18] Expansión. "El calor dispara los riesgos para las empresas". (30 de junio de 2026).
 *   [19] Segre.com. "Inspección de Trabajo avisa a 12.000 empresas catalanas para prevenir golpes de calor". (29 de junio de 2026).
 *   [20] El Norte de Castilla. "Reconocen como accidente laboral la muerte de un hombre por calor en el edificio municipal de San Benito". (25 de junio de 2026).
+*   [21] Valencia News / Lanza Digital. "La Generalitat pide reforzar prevención laboral ante la segunda ola de calor". (7 de julio de 2026).
+*   [22] La Opinión de Murcia. "El sector del metal en la Región avisa: la huelga se acerca tras siete meses de bloqueo". (1 de julio de 2026).
+*   [23] Lanza Digital. "Caída en altura, el accidente laboral que más aumenta en C-LM". (7 de julio de 2026).
+*   [24] Ciudad Real Noticias. "Muere un trabajador de 42 años en Miguelturra tras caer cinco metros". (2 de julio de 2026).
+*   [25] La 7 TV. "La Región registra un absentismo laboral del 7,7%". (6 de julio de 2026).
+*   [26] CCOO / RRSS. "Fallece un trabajador atropellado por maquinaria en Lorca". (Julio de 2026).
